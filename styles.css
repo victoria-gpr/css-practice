@@ -1,0 +1,57 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    height: 50px;
+    color: white;
+}
+
+h2 {
+    padding: 2px;
+    margin: 3px;
+}
+.all {
+    display: flex;
+    border-bottom: 10px gold solid;
+
+}
+
+#img1{
+    padding: 25px;
+    margin: 5px;
+    align-items: center;
+    background-color: lightgray;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: 25px;
+    width: 100%;
+}
+
+.box1 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    margin: 20px;
+}
+
+.box2 {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    justify-content: space-around;
+}
+
+.box2-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
